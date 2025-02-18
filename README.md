@@ -37,5 +37,8 @@
 💻 **기술 스택:** `HTML`, `CSS`, `JavaScript`  
 
 👉 "Save the Cheese!"에서 톰과 함께 치즈를 지켜보세요! 🧀🐱🐭  
-![게임 흐름도](SaveTheCheese2.png)
+
+<p align="center">
+  <img src="SaveTheCheese2.png" alt="게임 흐름도">
+</p>
 
